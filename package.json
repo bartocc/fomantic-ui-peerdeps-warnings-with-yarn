@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/bartocc/fomantic-ui-peerdeps-warnings-with-yarn.git",
   "author": "Julien Palmas <julien@crx.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "fomantic-ui": "^2.7.2"
+  }
 }
