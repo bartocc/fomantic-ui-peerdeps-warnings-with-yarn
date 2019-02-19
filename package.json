@@ -1,0 +1,8 @@
+{
+  "name": "fomantic-ui-peerdeps-warnings-with-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bartocc/fomantic-ui-peerdeps-warnings-with-yarn.git",
+  "author": "Julien Palmas <julien@crx.io>",
+  "license": "MIT"
+}
